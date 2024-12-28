@@ -1,6 +1,6 @@
 # stackblitz-angular-styles-error
 
-Stackblitz Angular projects seem to be broken when using "styles: `...`"
+Stackblitz Angular projects seem to be broken when using "styles: \`...\`"
 https://stackblitz.com/edit/stackblitz-starters-8q9thuwb?file=src%2Fmain.ts
 
 ```ts
